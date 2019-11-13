@@ -1,2 +1,1 @@
-# Querys
-Some querys
+Consultas
